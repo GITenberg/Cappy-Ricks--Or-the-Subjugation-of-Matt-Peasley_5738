@@ -1,0 +1,28 @@
+_repo: Cappy-Ricks--Or-the-Subjugation-of-Matt-Peasley_5738
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kyne, Peter B. (Peter Bernard)
+    alias: Kyne, Peter Bernard
+    birthdate: 1880
+    deathdate: 1957
+    gutenberg_agent_id: '1858'
+    url: http://www.gutenberg.org/2009/agents/1858
+    wikipedia: http://en.wikipedia.org/wiki/Peter_B._Kyne
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lumber trade -- Pacific Coast (U.S.) -- Fiction'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Shipping companies (Marine transportation) -- Fiction'
+- GITenberg
+title: Cappy Ricks; Or, the Subjugation of Matt Peasley
+url: http://www.gutenberg.org/ebooks/5738
